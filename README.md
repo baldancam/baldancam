@@ -1,21 +1,14 @@
 <h1 align="center"> Olá! Eu sou o Matheus Baldança 🤙</h1>
 <h3 align="center">Um Desenvolvedor Web maluco por inovação!</h3>
-
+<br>
 
 - 🌱 Atualmente estou aprendendo **TypeScript**
 
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em https://mcbcode.com
 
-
-
- <br><br>
- <a href="https://www.linkedin.com/in/matheus-baldan%C3%A7a-6a66a1195/">
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:baldancam@gmail.com">
-![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
-
-
+<br>
 <div>
   <h2><strong>Front-End</strong> ⤵</h2>
 </div>
@@ -40,12 +33,22 @@
   <img style="padding-right: 10px;"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
   <img style="padding-right: 10px;"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img style="padding-right: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-  
 
 </div>
+<br>
+<div style="display: grid">
+ 
+ ### 🌎 Conecte-se comigo!
 
+ <a href="https://www.linkedin.com/in/matheus-baldan%C3%A7a-6a66a1195/">
+  
+![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:baldancam@gmail.com">
+![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
+</div>
 
-
+<br>
 <div style="display: inline_block">
   
 ### 📊 Estatísticas no GitHub
