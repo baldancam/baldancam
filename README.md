@@ -35,6 +35,19 @@
   <img style="padding-right: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 
 </div>
+
+
+<br>
+<div style="display: inline_block">
+  
+### 📊 Estatísticas no GitHub
+
+<a href="https://github.com/baldancam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baldancam&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=baldancam&theme=dracula&layout=compact" />
+</a>
+</div>
+
 <br>
 <div style="display: grid">
  
@@ -47,17 +60,3 @@
 ![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 </div>
-
-<br>
-<div style="display: inline_block">
-  
-### 📊 Estatísticas no GitHub
-
-  ![baldancam GitHub stats](https://github-readme-stats.vercel.app/api?username=baldancam&show_icons=true&theme=dracula)
-
-
-### 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldancam&layout=compact)
-</div>
-
