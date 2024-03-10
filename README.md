@@ -53,9 +53,10 @@
  
  ### 🌎 Conecte-se comigo!
 
- <a href="https://www.linkedin.com/in/matheus-baldan%C3%A7a-6a66a1195/">
+ <a href="https://www.linkedin.com/in/matheus-baldan%C3%A7a-6a66a1195">
   
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 <a href="mailto:baldancam@gmail.com">
 ![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
