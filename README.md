@@ -6,7 +6,6 @@
 
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em https://mcbcode.com
 
 <br>
 <div>
