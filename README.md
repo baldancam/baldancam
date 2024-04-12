@@ -42,8 +42,9 @@
 ### 📊 Estatísticas no GitHub
 
 <a href="https://github.com/baldancam">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baldancam&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&locale=en&hide_border=false&show_owner=true&card_width=500" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baldancam&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baldancam&theme=neon&show_icons=true" />
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baldancam&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=neon&hide_border=false" height="150" alt="languages graph"  />
 
 
 
