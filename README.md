@@ -2,7 +2,7 @@
 <h3 align="center">Um Desenvolvedor Web maluco por inovação!</h3>
 <br>
 
-- 🌱 Atualmente estou aprendendo **JAVA**
+- 🌱 Atualmente estou aprendendo **JAVA ♨**
 
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas** 
 
