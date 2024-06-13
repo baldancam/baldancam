@@ -1,5 +1,5 @@
 <h1 align="center"> Olá! Eu sou o Matheus Baldança 🤙</h1>
-<h3 align="center">Um Desenvolvedor Web maluco por inovação!</h3>
+<h3 align="center">Um Desenvolvedor maluco por inovação!</h3>
 <br>
 
 - 🌱 Atualmente estou aprendendo **JAVA ♨**
