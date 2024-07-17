@@ -9,7 +9,7 @@
 
 <br>
 <div>
-  <h2><strong>Front-End</strong> ⤵</h2>
+  <h2><strong>Front-end</strong> ⤵</h2>
 </div>
 
 <div style="display: inline_block">
