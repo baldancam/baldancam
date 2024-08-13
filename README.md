@@ -46,7 +46,7 @@
 ### 📊 Estatísticas no GitHub
 <div>
   <a href="https://github.com/baldancam">
-  <img src="https://github-readme-stats.vercel.app/api?username=baldancam&repo=github-readme-stats&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=neon&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=baldancam&repo=github-readme-stats&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=neon&hide_border=false&count_private=true" height="150" alt="languages graph"  />
 </a>
   
 <a href="https://github.com/anuraghazra/convoychat">
